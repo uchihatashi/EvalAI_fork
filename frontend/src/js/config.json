@@ -6,12 +6,12 @@
     },
     "staging": {
         "EnvironmentConfig": {
-            "API": "https://staging.eval.ai/api/"
+            "API": "http://13.202.219.44:8000/api/"
         }
     },
     "production": {
         "EnvironmentConfig": {
-            "API": "https://eval.ai/api/"
+            "API": "http://13.202.219.44:8000/api/"
         }
     }
 }
